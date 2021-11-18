@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with Machine Learning and Programming Language.
 - 💬 Ask me about anything. I would be very happy to answer. :)
 - 📫 You can esclate to me @ gautam.ishu5@gmail.com if you have any questions.
-- 🔎 My Portfolio : https://sites.google.com/view/satyndragautam
+- 🔎 My Portfolio: https://sites.google.com/view/satyndragautam
+- 🔎 Kaggle: https://www.kaggle.com/satyndragautam
 
