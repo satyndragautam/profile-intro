@@ -1,6 +1,5 @@
 ## Hi there! I'm Satyndra!
 
-- 🔭 I’m currently working on a few projects that involve Dash, Plotly, and more. 
 - 🌱 My interest for Data Science and Machine Learning grows manifolds as each day passes by.
 - 🤔 I’m looking forward to collaborate with people in order to learn more so that I can improvise my skills each day. 
 - 💬 Ask me about anything. I would be very happy to answer. :)
