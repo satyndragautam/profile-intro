@@ -1,4 +1,4 @@
-## Hi there! I'm Satyndra!
+# Hi there! I'm Satyndra!
 
 - 🌱 My interest for Data Science and Machine Learning grows manifolds as each day passes by.
 - 🤔 I’m looking forward to collaborate with people in order to learn more so that I can improvise my skills each day. 
