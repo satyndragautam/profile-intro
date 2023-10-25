@@ -1,6 +1,6 @@
 # Hi there! I'm Satyndra!
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=python&logoColor=black)
 
 - 🌱 My interest for Data Science and Machine Learning grows manifolds as each day passes by. I also love solving problems and exploring different possibilities with open source tools and frameworks. 
 - 🤔 I’m looking forward to collaborate with people in order to learn about more tools and technologies and add in my skillsets. 
