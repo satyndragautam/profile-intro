@@ -8,8 +8,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-3776AB?style=flat-square&logo=python&logoColor=white)
-![Postgresql](https://img.shields.io/badge/Postgresql-3776AB?style=flat-square&logo=r&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-3776AB?style=flat-square&logo=MSSQL&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-3776AB?style=flat-square&logo=Postgresql&logoColor=white)
 - 🌱 My interest for Data Science and Machine Learning grows manifolds as each day passes by. I also love solving problems and exploring different possibilities with open source tools and frameworks. 
 - 🤔 I’m looking forward to collaborate with people in order to learn about more tools and technologies and add in my skillsets. 
 - 💬 Ask me about anything. I would be very happy to answer. :)
