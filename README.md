@@ -1,6 +1,7 @@
 # Hi there! I'm Satyndra!
-[//]: <> ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-<> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!---
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -10,6 +11,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-3776AB?style=flat-square&logo=MSSQL&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-3776AB?style=flat-square&logo=Postgresql&logoColor=white)
+
+--->
+
 - 🌱 My interest for Data Science and Machine Learning grows manifolds as each day passes by. I also love solving problems and exploring different possibilities with open source tools and frameworks. 
 - 🤔 I’m looking forward to collaborate with people in order to learn about more tools and technologies and add in my skillsets. 
 - 💬 Ask me about anything. I would be very happy to answer. :)
